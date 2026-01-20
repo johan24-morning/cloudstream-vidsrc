@@ -1,1 +1,12 @@
 
+{
+  "name": "VidSrc Cloudstream Repo",
+  "url": "https://github.com/YOURNAME/cloudstream-vidsrc",
+  "description": "VidSrc.to provider for Cloudstream (TMDB auto-load, free embeds)",
+  "providers": [
+    {
+      "name": "VidSrc",
+      "path": "providers/VidSrcProvider.kt"
+    }
+  ]
+}
